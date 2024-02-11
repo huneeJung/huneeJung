@@ -4,8 +4,8 @@
   
   <img align="right" width="100" src="https://github.com/huneeJung/huneeJung/blob/main/bear.gif?raw=true" />
 </div>
-<br/>
 
+<br/>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huneeJung&layout=donut&theme=dark&card_width=330px)](https://github.com/huneeJung/github-readme-stats)
