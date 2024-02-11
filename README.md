@@ -4,7 +4,7 @@
   
   #### Hello, I'm Jung Cheol-hoon. I think it's important to know how to translate my thoughts into coding.
   
-  <img align="right" width="70" src="https://github.com/huneeJung/huneeJung/blob/main/giphy.gif?raw=true" />
+  <img align="right" width="65" src="https://github.com/huneeJung/huneeJung/blob/main/giphy.gif?raw=true" />
 </div>
 
 <br/>
