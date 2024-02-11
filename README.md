@@ -2,9 +2,7 @@
   
   ### huneeJung
   
-  <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
-  
-  <img src="./notion2.png" width="60" height="60"/>
+  <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" /><img src="./notion2.png" width="60" height="60"/>
   
 ---
 </div>
