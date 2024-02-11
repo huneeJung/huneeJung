@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <span style="font-size : 100%;"> <a href = "https://jungcheolhoon.notion.site/jungcheolhoon/JUNG-CHEOL-HOON-6751c05cdd4d43d2891328056ef07bb2"><img src="./notion2.png" width="15" height="15"/></a> Hello. My name is Jung Cheol-hoon, a Java backend developer.</span>
+  <span style="font-size : 100px;"> <a href = "https://jungcheolhoon.notion.site/jungcheolhoon/JUNG-CHEOL-HOON-6751c05cdd4d43d2891328056ef07bb2"><img src="./notion2.png" width="15" height="15"/></a> Hello. My name is Jung Cheol-hoon, a Java backend developer.</span>
   <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
 </div>
 <br/>
