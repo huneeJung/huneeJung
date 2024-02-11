@@ -1,7 +1,7 @@
 <br/>
 <br/>
 <div align="center">
-  <a href = "https://jungcheolhoon.notion.site/jungcheolhoon/JUNG-CHEOL-HOON-6751c05cdd4d43d2891328056ef07bb2"><img src="./notion2.png" width="11" height="11"/></a> 
+  <a href = "https://jungcheolhoon.notion.site/jungcheolhoon/JUNG-CHEOL-HOON-6751c05cdd4d43d2891328056ef07bb2"><img src="./notion2.png" width="20" height="20"/></a> 
   
   #### Hello, I'm Jung Cheol-hoon. I think it's important to know how to translate my thoughts into coding.
   
