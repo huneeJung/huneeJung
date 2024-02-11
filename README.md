@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### huneeJung
+  ### 안녕하세요. 자바 백엔드 개발자 정철훈입니다.
   
   <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
   <a href = "https://jungcheolhoon.notion.site/jungcheolhoon/JUNG-CHEOL-HOON-6751c05cdd4d43d2891328056ef07bb2"><img src="./notion2.png" width="60" height="60"/></a>
