@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junghunee</h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> cjswovkdnj12@naver.com
 <p align="left">
 </p>
 
