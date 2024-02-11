@@ -1,7 +1,7 @@
 <br/>
 <br/>
 <div align="center">
-  <a href = "https://jungcheolhoon.notion.site/jungcheolhoon/JUNG-CHEOL-HOON-6751c05cdd4d43d2891328056ef07bb2"><img src="./notion2.png" width="13" height="13"/></a> 
+  <a href = "https://jungcheolhoon.notion.site/jungcheolhoon/JUNG-CHEOL-HOON-6751c05cdd4d43d2891328056ef07bb2"><img src="./notion2.png" width="11" height="11"/></a> 
   <span style="font-size: 30px;">Hello, I'm Jung Cheol-hoon. I think it's important to know how to translate my thoughts into coding.</span>
   
   <img align="right" width="87" src="https://github.com/huneeJung/huneeJung/blob/main/giphy.gif?raw=true" />
