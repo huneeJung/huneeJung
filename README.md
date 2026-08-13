@@ -17,7 +17,7 @@
   <img
     width="400"
     height="210"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=900&pause=500&color=39FF14&background=0D1117&vCenter=true&multiline=true&repeat=true&width=400&height=210&lines=jung%40prod%3A~%24+systemctl+status+life;Active%3A+active+%28running%29;;jung%40prod%3A~%24+tail+-f+work.log;WARN++Something+broke...;INFO++Fixed.+Somehow.;;jung%40prod%3A~%24+ping+weekend;Request+timeout;;jung%40prod%3A~%24+logout;Permission+denied%3A+work+still+remaining"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=900&pause=500&color=39FF14&background=0D1117&vCenter=true&multiline=true&repeat=true&width=400&height=210&lines=jung%40prod%3A~%24+systemctl+status+life;Active%3A+active+%28running%29;;jung%40prod%3A~%24+tail+-f+work.log;WARN++Something+broke...;INFO++Fixed.+Somehow.;;jung%40prod%3A~%24+ping+weekend;Request+timeout;;jung%40prod%3A~%24+logout;Permission+denied%3A+still+working"
   />
 </a>
 
